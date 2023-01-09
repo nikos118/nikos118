@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikos118
-- 👀 I’m interested in cyber security and data science.
+- 👀 I’m interested in data science and cyber security.
 - 🌱 I’m currently learning about Genetic Algorithms.
 - 📫 You can email me at nikosdritsakoswork@gmail.com!
 
