@@ -1,4 +1,5 @@
-!![Nikos Dritsakos - Banner](https://user-images.githubusercontent.com/121593919/214229787-b60ebe0a-0609-482e-87c7-e3be836eb5d3.PNG)
+![Nikos Dritsakos Github Banner](https://user-images.githubusercontent.com/121593919/214230019-c39e5de1-2112-4763-82cc-1a09e2e5e8da.PNG)
+
 
 - 👋 Hi, I’m @nikos118
 - 👀 I’m interested in data science and cyber security.
