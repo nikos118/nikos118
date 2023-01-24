@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @nikos118
 - 👀 I’m interested in data science and cyber security.
-- 🌱 I’m currently learning about Genetic Algorithms.
+- 🌱 I’m currently learning about Neural Networks.
 - 📫 You can email me at nikosdritsakoswork@gmail.com!
 
 
