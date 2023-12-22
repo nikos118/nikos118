@@ -1,4 +1,4 @@
-![Nikos Dritsakos Github Banner](https://user-images.githubusercontent.com/121593919/214230019-c39e5de1-2112-4763-82cc-1a09e2e5e8da.PNG)
+![Black Technology LinkedIn Banner](https://github.com/nikos118/nikos118/assets/121593919/f50f9daf-b5a0-425d-9f9e-39ce327acc94)
 
 
 - 👋 Hi, I’m @nikos118
