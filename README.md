@@ -1,4 +1,4 @@
-![Black Technology LinkedIn Banner](https://github.com/nikos118/nikos118/assets/121593919/f50f9daf-b5a0-425d-9f9e-39ce327acc94)
+
 
 
 - 👋 Hi, I’m @nikos118
