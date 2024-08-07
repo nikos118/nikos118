@@ -3,7 +3,6 @@
 
 - 👋 Hi, I’m @nikos118
 - 👀 I’m interested in data science and machine learning.
-- 🌱 I’m currently learning about Neural Networks.
 - 📫 You can email me at nikosdritsakoswork@gmail.com!
 
 
