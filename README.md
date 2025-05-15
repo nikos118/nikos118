@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @nikos118
 - 👀 I’m interested in data science and machine learning.
-- 📫 You can email me at nikosdritsakoswork@gmail.com!
+- 📫 You can email me at nikosdritsakos@gmail.com!
 
 
 
