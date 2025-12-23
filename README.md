@@ -60,20 +60,14 @@ Current obsession: making agentic systems *reliable*, *auditable*, and *useful* 
 
 ---
 
-## 📌 Highlights (swap in your real repos)
-- 🔥 **<PROJECT_NAME>** — <1-line spicy description>  
-  → `https://github.com/<YOUR_GITHUB_USERNAME>/<REPO>`
-- 🧠 **<PROJECT_NAME>** — <1-line description>  
-  → `https://github.com/<YOUR_GITHUB_USERNAME>/<REPO>`
-- 🛠️ **<PROJECT_NAME>** — <1-line description>  
-  → `https://github.com/<YOUR_GITHUB_USERNAME>/<REPO>`
-
----
-
 ## 📈 GitHub
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=<YOUR_GITHUB_USERNAME>&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_GITHUB_USERNAME>&layout=compact&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=<
+nikos118
+>&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<
+nikos118
+>&layout=compact&langs_count=8" />
 </p>
 
 <p align="center">
