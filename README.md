@@ -10,9 +10,8 @@ Replace <...> placeholders.
 </p>
 
 <p align="center">
-  <a href="<https://nikosdritsakos.com/>">Website</a> •
-  <a href="<https://www.linkedin.com/in/nikos-dritsakos/>">LinkedIn</a> •
-  <a href="mailto:<nikosdritsakos@gmail.com>">Email</a> •
+  Currently my favorite paper is <a href="<https://nikosdritsakos.com/](https://arxiv.org/html/2512.09882v1>">this one</a> •
+ 
 </p>
 
 <p align="center">
