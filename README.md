@@ -10,10 +10,9 @@ Replace <...> placeholders.
 </p>
 
 <p align="center">
-  <a href="<YOUR_WEBSITE_URL>">Website</a> •
-  <a href="<YOUR_LINKEDIN_URL>">LinkedIn</a> •
-  <a href="mailto:<YOUR_EMAIL>">Email</a> •
-  <a href="<YOUR_X_URL>">X</a>
+  <a href="<https://nikosdritsakos.com/>">Website</a> •
+  <a href="<https://www.linkedin.com/in/nikos-dritsakos/>">LinkedIn</a> •
+  <a href="mailto:<nikosdritsakos@gmail.com>">Email</a> •
 </p>
 
 <p align="center">
@@ -78,14 +77,10 @@ nikos118
 
 ## 🤝 Work with me
 - 💬 I’m open to: **collabs, speaking, advising, building weird ambitious stuff**
-- 🧷 Best way to reach me: **<YOUR_EMAIL>** or **<YOUR_LINKEDIN_URL>**
+- 🧷 Best way to reach me: NikosDritsakos@gmail.com or reach out on LinkedIn
 
 ---
 
-## 🧊 Philosophy
-> Ship fast, measure honestly, harden continuously.  
-> Cool demos are cheap. Reliability is the product.
-
 <p align="center">
-  <sub>Built with caffeine, paranoia, and a deep dislike of flaky systems.</sub>
+  <sub>Built with caffeine.</sub>
 </p>
