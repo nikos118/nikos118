@@ -30,37 +30,19 @@ On **Feb 26, 2025**, we officially closed the acquisition by **FliteHouse**. :co
 
 More: https://nikosdritsakos.com
 
-
 ---
 
 ## 🧰 Stack (the stuff I reach for)
 **Languages:** TypeScript, Python, SQL  
-**Web:** Next.js, React, FastAPI  
+**Web:** Next.js, React, FastAPI, tRPC 
 **Data:** Postgres, MySQL, PlanetScale, Supabase  
-**Infra:** AWS, Cloudflare, Docker  
-**Agent tooling:** eval harnesses, tool routers, trace/log pipelines (and a lot of glue)
-
----
-
-## 📈 GitHub
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=<
-nikos118
->&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<
-nikos118
->&layout=compact&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=<YOUR_GITHUB_USERNAME>" />
-</p>
+**Infra:** AWS, Cloudflare, Docker, GCP 
 
 ---
 
 ## 🤝 Work with me
-- 💬 I’m open to: **collabs, speaking, advising, building weird ambitious stuff**
-- 🧷 Best way to reach me: NikosDritsakos@gmail.com or reach out on LinkedIn
+- 💬 I’m open to: **collabs, speaking, advising, building random ambitious stuff**
+- 🧷 Best way to reach me: nikosdritsakos@gmail.com or reach out on LinkedIn
 
 ---
 
