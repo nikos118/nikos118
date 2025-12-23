@@ -16,7 +16,7 @@ Replace <...> placeholders.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Manrope&size=18&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI+agents+that+actually+ship.;Autonomous+%E2%80%9Cwhite-hat%E2%80%9D+security+testing+(authorized+only).;Product+obsessed.+Latency+allergic.+Outcome+driven." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Manrope&size=18&pause=1000&center=true&vCenter=true&width=700&lines=Just+A+guy+with+a+laptop.;Yes+I+test+in+production." alt="Typing SVG" />
 </p>
 
 ---
