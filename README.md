@@ -10,7 +10,7 @@ Replace <...> placeholders.
 </p>
 
 <p align="center">
-  Currently my favorite paper is <a href="<https://nikosdritsakos.com/](https://arxiv.org/html/2512.09882v1>"this one</a>
+  Currently my favorite paper is <a href="<https://arxiv.org/html/2512.09882v1>"this one</a>
  
 </p>
 
