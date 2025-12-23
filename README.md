@@ -16,37 +16,20 @@ Replace <...> placeholders.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Manrope&size=18&pause=1000&center=true&vCenter=true&width=700&lines=Just+A+guy+with+a+laptop.;Yes+I+test+in+production." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Manrope&size=18&pause=1000&center=true&vCenter=true&width=700&lines=Just+a+guy+with+a+laptop.;Yes,+I+test+in+production." alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧠 About
-I’m Nikos — I build products at the edge of **AI agents** and **real-world workflows**.  
-Current obsession: making agentic systems *reliable*, *auditable*, and *useful* (not demo-ware).
+Toward the end of my third year of university, I founded **SalesBop**—an AI sales coaching platform—and committed fully to building it. :contentReference[oaicite:3]{index=3} Over the next ~2 years, I took it from concept → shipped product → GTM execution → acquisition.
 
-- 🔭 Working on: **autonomous, authorized web security testing agents** + agent infrastructure
-- 🧱 I like: *fast iteration, sharp UX, strong primitives, measurable outcomes*
-- 🛡️ Always: **security-minded**, **compliance-aware**, **production-first**
-- ⚡ Fun: I’ll happily trade fancy architecture for a 10x simpler system that doesn’t break
+After graduating, I led every faucet of the company: architecture and technical implementation, product iteration loops, outbound/customer acquisition systems, and day-to-day operations.
 
----
+On **Feb 26, 2025**, we officially closed the acquisition by **FliteHouse**. :contentReference[oaicite:4]{index=4} Today, I lead the technology team there, continuing to scale what we started—now with a larger team and a broader mission to unify people, process, and technology into one cohesive revenue ecosystem.
 
-## 🧩 What I build
-### 🤖 Agentic Systems
-- Tool-using agents with **guardrails**, **memory**, **evaluation**, and **traceability**
-- Multi-agent orchestration for real tasks (not “agent theater”)
-- Browser automation + retrieval + structured outputs
+More: https://nikosdritsakos.com
 
-### 🛡️ Security (Authorized Only)
-- Web app security automation (recon → findings → reproducible PoCs → reporting)
-- Defensive research: prompt injection, agent hardening, sandboxing, policy design
-- Building toward “continuous security testing” that fits how teams ship
-
-### 🧪 Product Engineering
-- Next.js / TypeScript systems that scale
-- APIs + SDKs + developer experience
-- Shipping with constraints: small teams, big goals
 
 ---
 
