@@ -26,7 +26,7 @@ Toward the end of my third year of university, I founded **SalesBop**—an AI sa
 
 After graduating, I led every faucet of the company: architecture and technical implementation, product iteration loops, outbound/customer acquisition systems, and day-to-day operations.
 
-On **Feb 26, 2025**, we officially closed the acquisition by **FliteHouse**. :contentReference[oaicite:4]{index=4} Today, I lead the technology team there, continuing to scale what we started—now with a larger team and a broader mission to unify people, process, and technology into one cohesive revenue ecosystem.
+On **Feb 26, 2025**, we officially closed the acquisition by **FliteHouse**. Today, I lead the technology team there, continuing to scale what we started—now with a larger team and a broader mission to unify people, process, and technology into one cohesive revenue ecosystem.
 
 More: https://nikosdritsakos.com
 
