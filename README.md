@@ -22,7 +22,7 @@ Replace <...> placeholders.
 ---
 
 ## 🧠 About
-Toward the end of my third year of university, I founded **SalesBop**—an AI sales coaching platform—and committed fully to building it. :contentReference[oaicite:3]{index=3} Over the next ~2 years, I took it from concept → shipped product → GTM execution → acquisition.
+Toward the end of my third year of university, I founded **SalesBop**—an AI sales coaching platform—and committed fully to building it. Over the next ~2 years, I took it from concept → shipped product → GTM execution → acquisition.
 
 After graduating, I led every faucet of the company: architecture and technical implementation, product iteration loops, outbound/customer acquisition systems, and day-to-day operations.
 
