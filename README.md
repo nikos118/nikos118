@@ -2,9 +2,6 @@
   <img src="header.svg" width="100%" alt="Nikos Dritsakos"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Just+a+guy+with+a+laptop.;Yes%2C+I+test+in+production.;I+ship+things+that+work.;Acquired+before+graduating." alt="Typing SVG" />
-</p>
 
 <p align="center">
   <a href="https://nikosdritsakos.com"><img src="https://img.shields.io/badge/website-0d1117?style=for-the-badge&logo=safari&logoColor=ffffff" alt="Website"/></a>
